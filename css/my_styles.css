@@ -1,0 +1,13 @@
+p.redred{
+    color:rgb(248, 85, 139);
+    font-size: 40px;
+    text-align: center;
+    text-indent:3em ;
+}
+span.blueblue{
+    color:rgba(13, 198, 244, 0.761);
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+body{font-family:'Noto Sans TC',sans-serif ;
+}
