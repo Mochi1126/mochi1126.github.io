@@ -9,7 +9,16 @@ span.blueblue{
     letter-spacing: 0.8px;
     line-height: 1.5em;
 }
-body{font-family:'Noto Sans TC',sans-serif ;
+body{
+    font-family:'Noto Sans TC',sans-serif ;
 }
-h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:'Noto Serif TC',sans-serif ;
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+    font-family:'Noto Serif TC',sans-serif ;
+}
+.expedu_icon {
+    color:rgba(51, 51, 177, 0.6)
+}
+.expedu_icon:hover{
+    background-color: blue;
+    color:white;
 }
