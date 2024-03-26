@@ -5,6 +5,7 @@ p.redred{
     font-size: 40px;
     text-align: center;
     text-indent:3em ;
+    background-image: url(../assets/img/bg-sky.jpg);
 }
 span.blueblue{
     color:rgba(13, 198, 244, 0.761);
