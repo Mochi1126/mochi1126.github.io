@@ -32,3 +32,33 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     background-size: cover;
     background-position: center;
 }
+table.mochi1126table{
+    width: 80%;
+    background-color: rgba(214, 169, 118, 0.726);
+    border:10px solid rgba(67, 5, 238, 0.671);
+
+}
+table.mochi1126table th{
+    text-align: center;
+    background-color: rgba(67, 214, 82, 0.671);
+    color:rgb(250, 239, 246)
+    border:10px solid red
+}
+table{
+    border-collapse: separate;
+}
+table{
+    border-collapse:collapse;
+}
+table.mochi1126table td{
+    text-align: justify;
+}
+tr:nth-child(even){
+    background-color: rgb(29, 113, 209);
+}
+tr:nth-child(odd){
+    background-color: rgb(221, 96, 162);
+}
+td{
+    border:1px solid #2a5d44
+}
