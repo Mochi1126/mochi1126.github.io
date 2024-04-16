@@ -1,11 +1,13 @@
 p.redred{
+    padding: 50px 100px ;
     background-color: rgba(255, 127, 80, 0.377);
     color:rgb(255, 6, 193);
-    border: 20px dashed red;
+    border: 10px dashed red;
     font-size: 40px;
     text-align: center;
-    text-indent:3em ;
+    text-indent:2em ;
     background-image: url(../assets/img/bg-sky.jpg);
+    border-radius: 30px;
 }
 span.blueblue{
     color:rgba(13, 198, 244, 0.761);
@@ -34,15 +36,15 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 table.mochi1126table{
     width: 80%;
-    background-color: rgba(214, 169, 118, 0.726);
-    border:10px solid rgba(67, 5, 238, 0.671);
+    background-color: #d49f66b9;
+    border:10px solid rgba(238, 235, 247, 0.671);
 
 }
 table.mochi1126table th{
     text-align: center;
-    background-color: rgba(67, 214, 82, 0.671);
-    color:rgb(250, 239, 246)
-    border:10px solid red
+    background-color: rgba(86, 204, 233, 0.671);
+    color:rgb(245, 80, 184)
+    border 10px solid red
 }
 table{
     border-collapse: separate;
@@ -54,11 +56,14 @@ table.mochi1126table td{
     text-align: justify;
 }
 tr:nth-child(even){
-    background-color: rgb(29, 113, 209);
+    background-color: rgb(125, 180, 235);
 }
 tr:nth-child(odd){
-    background-color: rgb(221, 96, 162);
+    background-color: rgb(247, 8, 135);
 }
 td{
-    border:1px solid #2a5d44
+    border:1px solid #f3c701
+}
+.w-80{
+    width: 50;
 }
